@@ -51,7 +51,6 @@ This Python application, named CarAnalysis, provides a graphical interface to vi
 # License:
   This project is licensed under the MIT License.
 
-#Contact:
-  For any questions or feedback, feel free to contact the author, Ahmad.
-
-Feel free to customize the description further based on your specific intentions and details about the application.
+# Contact:
+  For any questions or feedback, feel free to contact me.
+  Feel free to customize the description further based on your specific intentions and details about the application.
